@@ -1,16 +1,16 @@
 @font-face {
   font-family: Oldschool-Regular;
-  src: url(./assets/fonts/OldschoolGrotesk_W-Regular.ttf);
+  src: url(./OldschoolGrotesk_W-Regular.ttf);
 }
 
 @font-face {
   font-family: Oldschool-Light;
-  src: url(./assets/fonts/OldschoolGrotesk_W-Light.ttf);
+  src: url(./OldschoolGrotesk_W-Light.ttf);
 }
 
 @font-face {
   font-family: futura;
-  src: url(./assets/fonts/FuturaNowHeadline-Bd.ttf);
+  src: url(./FuturaNowHeadline-Bd.ttf);
 }
 
 * {
