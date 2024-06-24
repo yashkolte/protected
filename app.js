@@ -106,10 +106,10 @@ function runAfterApp() {
   } else {
     t1.to(".mainVideo video", {
       width: "105vw",
-      height: "120vh",
+      height: "100vh",
       position: "absolute",
-      top: "20vh",
-      left: "0vw",
+      top: "25vh",
+      left: "10vw",
       duration: 1,
     });
   }
