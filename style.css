@@ -1,16 +1,16 @@
 @font-face {
   font-family: Oldschool-Regular;
-  src: url('https://raw.githubusercontent.com/yashkolte/protected/main/OldschoolGrotesk_W-Regular.ttf');
+  src: url(./assets/fonts/OldschoolGrotesk_W-Regular.ttf);
 }
 
 @font-face {
   font-family: Oldschool-Light;
-  src: url('https://raw.githubusercontent.com/yashkolte/protected/main/OldschoolGrotesk_W-Light.ttf');
+  src: url(./assets/fonts/OldschoolGrotesk_W-Light.ttf);
 }
 
 @font-face {
   font-family: futura;
-  src: url('https://raw.githubusercontent.com/yashkolte/protected/main/FuturaNowHeadline-Bd.ttf');
+  src: url(./assets/fonts/FuturaNowHeadline-Bd.ttf);
 }
 
 * {
@@ -21,11 +21,11 @@
 }
 
 :root {
-  --primary: #d69b77;
-  --primary-color-1: #ebc385;
-  --primary-color-2: #e1af7e;
-  --primary-color-3: #d69b77;
-  --primary-50: #d69b778a;
+  --primary: #6A0DAD;
+  --primary-color-1: #D8BFD8;
+  --primary-color-2: #D8BFD8;
+  --primary-color-3: #D8BFD8;
+  --primary-50: #D8BFD8;
   --secondary: #ffffff;
   --white: #ffffff;
   --black: #000000;
@@ -239,6 +239,7 @@ header .logo {
 .navBtn {
   padding: 0.5rem 0.8rem;
   background-color: var(--primary);
+  color: var(--white);
   border-radius: 20px;
   border: 0;
   position: relative;
