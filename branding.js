@@ -270,7 +270,7 @@ function runAfterBranding() {
   });
 
   tl2.to(".about-mission", {
-    color: "#fca73f",
+    color: "#9366c9",
   });
 
   tl2.to(
@@ -293,7 +293,7 @@ function runAfterBranding() {
   tl2.to(
     ".about-vision",
     {
-      color: "#fca73f",
+      color: "#9366c9",
     },
     "about-animate"
   );
@@ -318,7 +318,7 @@ function runAfterBranding() {
   tl2.to(
     ".about-values",
     {
-      color: "#fca73f",
+      color: "#9366c9",
     },
     "about-animate0"
   );
